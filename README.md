@@ -15,9 +15,7 @@ Docker (optional)
 
 Setup
 
-Clone the repository:
-Copygit clone https://github.com/your-username/bookstore-api.git
-cd bookstore-api
+Clone the repository
 
 Create a virtual environment and activate it:
 Copypython -m venv venv
