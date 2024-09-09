@@ -52,9 +52,6 @@ Docker Setup
 Build the Docker image:
 Copydocker build -t bookstore-api .
 
-Run the Docker container:
-Copydocker run -p 8000:8000 -e DATABASE_URL=postgresql://user:password@host.docker.internal:5432/bookstore_db bookstore-api
-
 
 API Documentation
 The full API documentation is available as a Postman collection. You can download it here.
